@@ -9,13 +9,13 @@ The company was founded in 2014 by Michael Katchen. Katchen developed a speardsh
 Wealthsimple provides an online investment management service combining a Robo-advisor platform with access to live advisors to help Canadians financially. 
 
 ## Why This Matters
-The chief benefit of Robo-advisor is to provide financial advice based on mathematical rules. It brings services to a broader audience with lower cost compared to traditionally exclusive wealth management services, such as BMO Smartfolio, Questwealth Portfolios, Justwealth, ModernAdvisor. 
+The chief benefit of Robo-advisor is to provide financial advice based on mathematical rules. It brings services to a broader audience with lower cost compared to traditionally exclusive wealth management services, such as BMO Smartfolio, Questwealth Portfolios, Justwealth. 
 
 The Robo-advisors technologies were launched in 2008 during the financial crisis. By the end of 2015, almost 100 companies that use Robo-advisors were managing $60 billion assets of clients. Wealthsimple surpasses a number of features compared to its competitors: easy sign-up process, no account minimums, easy, automatic contributions, no account inactivity fees, mobile app access innovative features, and competitive fees. 
 
 ## Why This May be Interesting
 In October 2022, Wealthsimple became Canada's first nonbank, non-credit-union approved for direct settlement by the Bank of Canada. 
-This means that traditional institutions have now recognized and accepted that the Fintech technology backed financial services is no more a gimmmick but a legitimate financail services. 
+This means that traditional institutions have now recognized and accepted that the Fintech technology backed financial services is no more a gimmick but a legitimate financail services. 
 
 Wealthsimple has added many [services](https://www.wealthrocket.com/investing/wealthsimple-review/) since its inception. However, they need a few improvements to stay competitive. According to [MoneySense magazine](https://www.moneysense.ca/save/investing/wealthsimple-trade-review/), it says "There is a lack of in-depth investment analytics and educational tools, which can make things harder on some newbie investors.". 
 
@@ -31,7 +31,7 @@ To expand Wealthsimple services, they should create a Peer-to-peer lending platf
 
 * [Wealthsimple funding](https://www.crunchbase.com/organization/wealthsimple/company_financials)
 
-* [Wealthsimple competitors in robo-advisory](https://cointelegraph.com/news/national-bank-of-canada-pilots-blockchain-to-combat-complex-processes)
+* [Wealthsimple competitors in robo-advisory](https://www.savvynewcanadians.com/guide-to-robo-advisors-canada-and-comparison/)
 
 * [Type of services that Wealthsimple provides](https://www.wealthrocket.com/investing/wealthsimple-review/)
 
