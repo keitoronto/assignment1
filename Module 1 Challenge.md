@@ -24,6 +24,7 @@ Another emerging fintech service is peer to peer lending. **Peer-to-peer (P2P) l
 To expand Wealthsimple services, they should create a Peer-to-peer lending platform where lenders match with borrowers. By incorporating the peer to peer lending feature as one of services, they can offer more diversified services and give users more flexible choices. 
 
 ## Resources
+* [Robo-advisor picture source](https://blog.fintso.com/financial-advisors-vs-robo-advisory-a-deep-study/)
 
 * [Wealthsimple website](https://www.wealthsimple.com/en-ca)
 
