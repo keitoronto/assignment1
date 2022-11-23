@@ -21,7 +21,7 @@ Wealthsimple has added many [services](https://www.wealthrocket.com/investing/we
 
 
 Another emerging FinTech service is peer-to-peer lending. **Peer-to-peer (P2P) lending** enables individuals to obtain loans directly from other individuals, cutting out the financial institution as middleman. P2P lenders are individuals who seek a better return on their savings. Wealthsimple should provide a P2P platform to expand their services. 
-To expand Wealthsimple services, they should create a Peer-to-peer lending platform where lenders match with borrowers. By incorporating the peer-to- peer lending feature as one of services, they can offer more diversified services and give users more flexible choices. 
+To expand Wealthsimple services, they should create a Peer-to-peer lending platform where lenders match with borrowers. By incorporating the peer-to-peer lending feature as one of services, they can offer more diversified services and give users more flexible choices. 
 
 ## Resources
 * [Robo-advisor picture source](https://blog.fintso.com/financial-advisors-vs-robo-advisory-a-deep-study/)
