@@ -9,7 +9,7 @@ The company was founded in 2014 by Michael Katchen. Katchen developed a speardsh
 Wealthsimple provides an online investment management service combining a Robo-advisor platform with access to live advisors to help Canadians financially. 
 
 ## Why This Matters
-The chief benefit of Robo-advisor is to provide financial advice based on mathematical rules. It brings services to a broader audience with lower cost compared to traditionally exclusive wealth management services, such as BMO Smartfolio, Questwealth Portfolios, and Justwealth. 
+The chief benefit of Robo-advisor is to provide financial advice based on mathematical rules. It brings services to a broader audience with lower cost compared to traditionally exclusive wealth management services. There are Canadian competitors that use Robo-advisor technologies such as BMO Smartfolio, Questwealth Portfolios, and Justwealth. 
 
 The Robo-advisors technologies were launched in 2008 during the financial crisis. By the end of 2015, almost 100 companies that use Robo-advisors were managing $60 billion assets of clients. Wealthsimple surpasses a number of features compared to its competitors: easy sign-up process, no account minimums, easy, automatic contributions, no account inactivity fees, mobile app access innovative features, and competitive fees. 
 
