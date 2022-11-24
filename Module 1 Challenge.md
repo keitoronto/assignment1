@@ -11,7 +11,7 @@ Wealthsimple provides an online investment management service combining a Robo-a
 ## Why This Matters
 The chief benefit of a Robo-advisor is to provide financial advice based on mathematical rules. It brings services to a broader audience with lower cost compared to traditionally exclusive wealth management services. There are Canadian competitors that use Robo-advisor technologies such as BMO Smartfolio, Questwealth Portfolios, and Justwealth. 
 
-The Robo-advisor technologies were launched in 2008 during the financial crisis. By the end of 2015, almost 100 companies that use Robo-advisors were managing $60 billion assets of clients. Wealthsimple surpasses a number of features compared to its competitors: easy sign-up process, no account minimums, easy, automatic contributions, no account inactivity fees, mobile app access, and competitive fees. 
+The Robo-advisor technologies were launched in 2008 during the financial crisis. By the end of 2015, almost 100 companies that use Robo-advisors were managing $60 billion assets of clients. Wealthsimple surpasses a number of features compared to its competitors: easy sign-up process, no account minimums, easy automatic contributions, no account inactivity fees, mobile app access, and competitive fees. 
 
 ## Why This May be Interesting
 In October 2022, Wealthsimple became Canada's first non-bank, non-credit-union approved for direct settlement by the Bank of Canada. 
