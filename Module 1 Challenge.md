@@ -3,7 +3,7 @@
 
 
 ## What Is It
-<font size="3">**Wealthsimple Technologies Inc.** </font>is a Canadian FinTech company that uses robo-advisor technology. Robo-Advisor uses artificial intelligence (AI) and big data to construct financial advice. 
+<font size="3">**Wealthsimple Technologies Inc.** </font>is a Canadian FinTech company that uses Robo-advisor technology. Robo-advisor uses artificial intelligence (AI) and big data to construct financial advice. 
 
 The company was founded in 2014 by Michael Katchen. Katchen developed a speardsheet with tips to help his colleagues set up investment portfolios. Interest in the spreadsheet helped inspire the idea for the inception of Wealthsimple. He raised a $2-million seed round from investors and a venture capital firm. 
 Wealthsimple provides an online investment management service combining a Robo-advisor platform with access to live advisors to help Canadians financially. 
